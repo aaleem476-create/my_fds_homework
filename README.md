@@ -1,1 +1,1 @@
-# This repo is for Git homework for FDS spring class
+# This repo is for Git homework3 for FDS
