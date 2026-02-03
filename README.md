@@ -1,2 +1,1 @@
-# my_fds_homework
-homework3
+# This repo is for Git homework for FDS spring class
